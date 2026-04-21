@@ -8,7 +8,7 @@ Questa repository contiene il materiale svolto durante i laboratori, gli script 
 ##Struttura della Repository
 Ogni cartella corrisponde a una sessione di laboratorio o a un modulo specifico:
 
-- `Lab_0/`: [Introduction to Pandas]
+- `Lab_0/`: [Introduction to Pandas](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-0.1.IntroPandas.ipynb)
 - `Lab_01/`: [Data generation]
 - `Lab_02/`: [Bias-variance trade off]
 - `Lab_03/`: [Linear and Logistic regression]
