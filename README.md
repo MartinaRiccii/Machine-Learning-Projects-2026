@@ -10,7 +10,7 @@ Ogni cartella corrisponde a una sessione di laboratorio o a un modulo specifico:
 
 - `Lab_0/`: [Introduction to Pandas](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-0.1.IntroPandas.ipynb)
 - `Lab_01/`: [Data generation](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-1.Data_generation.ipynb)
-- `Lab_02/`: [Bias-variance trade off]
+- `Lab_02/`: [Bias-variance trade off](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-2.Bias_Variance.ipynb)
 - `Lab_03/`: [Linear and Logistic regression]
 - `Lab_04/`: [Regularized Linear Regression and K-Fold Cross Validation]
 - `Lab_05/`: [Unsupervised Learning]
