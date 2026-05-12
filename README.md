@@ -13,7 +13,7 @@ Ogni cartella corrisponde a una sessione di laboratorio o a un modulo specifico:
 - `Lab_02/`: [Bias-variance trade off](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-2.Bias_Variance.ipynb)
 - `Lab_03/`: [Linear and Logistic regression](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-3.Regression.ipynb)
 - `Lab_04/`: [Regularized Linear Regression and K-Fold Cross Validation](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-4.Regularizations.ipynb)
-- `Lab_05/`: [Unsupervised Learning]
+- `Lab_05/`: [Unsupervised Learning](https://github.com/MartinaRiccii/Machine-Learning-Projects-2026/blob/main/Lab-5.UnsupervisedLearning.ipynb)
 - `Lab_06/`: [Decision Tree and Naive Bayes]
 - `Lab_07/`: [Classification with KNN, Trees and Gaussian Naive Bayes ]
 - `Esercitazioni/`: Codice extra, script di test e approfondimenti personali.
